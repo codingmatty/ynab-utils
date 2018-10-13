@@ -1,0 +1,22 @@
+{
+  "name": "ynab-utils",
+  "version": "1.0.0",
+  "description": "Wrapper for YNAB API with some extra utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codingmatty/ynab-utils.git"
+  },
+  "keywords": [
+    "ynab"
+  ],
+  "author": "Matthew Jacobs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codingmatty/ynab-utils/issues"
+  },
+  "homepage": "https://github.com/codingmatty/ynab-utils#readme"
+}
